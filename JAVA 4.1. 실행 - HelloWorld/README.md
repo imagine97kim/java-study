@@ -30,11 +30,11 @@ public class HelloWorldApp {
     }
 }
 ```
-	- java 소스코드가 실행되면 소스코드명과 같은 클래스를 찾기 때문에 소스코드명과 같은 클래스명을 입력해주어야 함
-	- java 소스코드가 실행되면 소스코드명과 같은 클래스를 찾고 그 안의 main 이라는 메소드를 찾아 그 안의 코드를 실행하게 됨
-	- 코드를 작성하고 저장을 하면 프로젝트 폴더에 HelloWorldApp.class 라는 클래스파일이 생성되는데 클래스 파일은 Package Explorer 에서는 감추기 때문에 Navigator 에서만 확인할 수 있음
+- java 소스코드가 실행되면 소스코드명과 같은 클래스를 찾기 때문에 소스코드명과 같은 클래스명을 입력해주어야 함
+- java 소스코드가 실행되면 소스코드명과 같은 클래스를 찾고 그 안의 main 이라는 메소드를 찾아 그 안의 코드를 실행하게 됨
+- 코드를 작성하고 저장을 하면 프로젝트 폴더에 HelloWorldApp.class 라는 클래스파일이 생성되는데 클래스 파일은 Package Explorer 에서는 감추기 때문에 Navigator 에서만 확인할 수 있음
 
-### 자바 소스코드 실행
+### 자바 소스코드 실행
 - 우클릭 > Run as > Java Application
 	- 자바 어플리케이션으로서 실행한다는 뜻
 	- Console 창에 소스코드 실행결과 출력됨
@@ -46,4 +46,4 @@ Hello World!!
 ### 정리
 - 프로젝트 폴더 내의 확장자가 java인 파일은 사람이 읽고 쓸 수 있는 소스코드가 담겨 있음
 - java 파일을 저장 하면 컴파일 과정을 거치면서 확장자가 class인 파일을 만드는데 사람이 읽도록 고안된 파일이 아니라서 글자가 깨져 보임
-- java 파일을 실행(Run as Java Application) 하면 java 파일과 이름이 같은 class 파일을 실행함
+- java 파일을 실행(Run as Java Application) 하면 java 파일과 이름이 같은 class 파일을 실행함
