@@ -6,7 +6,7 @@
 	- 원인
 - application (program)
 	- 결과
-
+<br/><br/>
 
 ### Java의 동작원리
 - Java Source code (.java 파일)
@@ -19,3 +19,10 @@
 	- 클래스 파일에 작성된 내용대로 컴퓨터를 동작시킴
 	- Run
 - computer
+
+<br/>
+|:---:|
+|Java Source Code|
+|Java Application|
+|Java Virtual Machine|
+|Computer|
