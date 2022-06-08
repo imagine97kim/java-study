@@ -35,7 +35,9 @@ System.out.println("6"*"6"); // ERROR
 System.out.println("1111".length()); // 4
 System.out.println(1111.length()); // ERROR
 ```
-> length() 는 문자열의 길이를 나타내주는 함수이므로 숫자 데이터 타입에 적용하면 오류가 뜸  
+> length() 는 문자열의 길이를 나타내주는 함수이므로 숫자 데이터 타입에 적용하면 오류가 뜸   
+
+
 <br/><br/><br/>
 
 ### 새로운 기술을 공부할 때 중요한 점 두 가지
