@@ -38,7 +38,7 @@ public class HelloWorldApp {
 - 우클릭 > Run as > Java Application
 	- 자바 어플리케이션으로서 실행한다는 뜻
 	- Console 창에 소스코드 실행결과 출력됨
-	- Console
+- Console
 ```
 Hello World!!
 ```
