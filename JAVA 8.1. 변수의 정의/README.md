@@ -13,7 +13,7 @@ public class Variable {
 }
 ```
 > 정수 integer 형은 int로 선언한다.  
-
+<br>
 - 실수 double
 *Variable.java*
 ```java
@@ -24,7 +24,7 @@ System.out.println(b); // 1.1
 ...
 ```
 > 정수 int 형 변수에 실수를 넣으면 오류가 발생한다. 변수에 실수를 넣으려면 실수형 변수를 나타내는 double 을 사용해야 한다.  
-
+<br>
 - 문자열 String
 *Variable.java*
 ```java
