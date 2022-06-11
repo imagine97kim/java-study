@@ -6,6 +6,7 @@
 - https://bitbucket.org/egoing/java-iot/src/master
 - 사용할 라이브러리 폴더 전체를 우리의 프로젝트 폴더에 복사한다.
 
+<br>
 - - - -
 #생활코딩/자바/자바9_3
 # JAVA 9.3. IOT 프로그램 만들기
@@ -27,6 +28,7 @@ public class Ok_javaGoinHome {
 > import 를 이용하여 Elevator 클래스를 불러온다.  
 
 <br>
+
 ### 패키지 활용하기
 *Ok_javaGoinHome.java*
 ```java
@@ -43,6 +45,7 @@ myElevator.callForUp(1); // 엘리베이터를 1층으로 호출
 > Security 와 Lighting 또한 같은 방식으로 작성한다.  
 
 <br>
+
 ### 변수를 사용해서 중복 없애기
 *Ok_javaGoinHome.java*
 ```java
@@ -66,6 +69,7 @@ floorLamp.on();
 > 코드 상에서 중복되는 부분인 “JAVA APT 507” 이라는 문자열을 String 데이터 타입의 변수 id 에 넣어서 활용하면 코드가 훨씬 깔끔하고 관리하기도 편하다. id 의 값만 바꾸면 전체 코드가 바뀐다.  
 
 <br>
+
 ### 결론
 - 컴퓨터 언어를 통해 작업을 자동화 시킬 수 있고, 이것이 프로그래밍이다.
 - 이러한 코드를 이클립스가 아닌 스마트폰 앱이나 스마트워치, 웹 등 좀 더 편리한 플랫폼 위에서 작성해 실제로 동작하게 할 수 있다.
